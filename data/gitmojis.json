@@ -105,6 +105,20 @@
       "name": "checkered-flag"
     },
     {
+      "emoji": "🤖",
+      "entity": "&#129302;",
+      "code": ":robot:",
+      "description": "Fixing something on Android.",
+      "name": "robot"
+    },
+    {
+      "emoji": "🍏",
+      "entity": "&#127823;",
+      "code": ":green_apple:",
+      "description": "Fixing something on iOS.",
+      "name": "green-apple"
+    },
+    {
       "emoji": "🔖",
       "entity": "&#x1f516;",
       "code": ":bookmark:",
@@ -305,6 +319,27 @@
       "code": ":speech_balloon:",
       "description": "Updating text and literals.",
       "name": "speech-balloon"
+    },
+    {
+      "emoji": "🗃",
+      "entity": "&#128451;",
+      "code": ":card_file_box:",
+      "description": "Performing database related changes.",
+      "name": "card-file-box"
+    },
+    {
+      "emoji": "🔊",
+      "entity": "&#128266;",
+      "code": ":loud_sound:",
+      "description": "Adding logs.",
+      "name": "loud-sound"
+    },
+    {
+      "emoji": "🔇",
+      "entity": "&#128263;",
+      "code": ":mute:",
+      "description": "Removing logs.",
+      "name": "mute"
     }
   ]
 }
