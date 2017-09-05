@@ -7,7 +7,7 @@ request it. But can depend on it in the package.json file
 
 
 ## Usage
-```
+```javascript
 const gitmojiData = require('gitmoji-data/data/gitmojis.json');
 const GITMOJI_DATA_URL = 'https://raw.githubusercontent.com/gyran/gitmoji-data/master/data/gitmojis.json';
 
